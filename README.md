@@ -7,7 +7,7 @@ El articulo original se puede enconntrar en [MedSAM](https://www.nature.com/arti
 
 En el siguiente [Colab](https://colab.research.google.com/drive/1HmTyEg0C95yRnA-MFfwjZZku57yeaCsy?usp=sharing) se encuetran todos los codigos para su ejeción aplicando un conjunto de imagenes. 
 
-El modelo afinado se pude encontrar en [mamografía](https://drive.google.com/drive/folders/10hDzl3oqbeozg6eF8umF9gYYLBv65qBd?usp=sharing), el cual ya pude ser implementado para segmentación de anomalias.  
+El modelo afinado para la segmentación de anomalias en [mamografía](https://drive.google.com/drive/folders/10hDzl3oqbeozg6eF8umF9gYYLBv65qBd?usp=sharing), el cual ya pude ser implementado.  
 
 ## Fini-tuning
 Para entrenar a Lite-MedSAM en una sola GPU, se corre:
